@@ -1,10 +1,10 @@
 <h3 align="center">Tech Enthusiast in AI, Data Science, Mobile Developer, Machine Learning & Back-End</h3>
 
-- 🔭 I’m currently working on **IBM Academy @Infinite Learning**
+- 🔭 I’m currently student at **IBM Academy @Infinite Learning**
 
 - 🌱 I’m currently learning **Advance AI**
 
-- 💬 Ask me about **Artificial Intelligence, Data Science, Machine Learning, annd Deep Learning**
+- 💬 Ask me about **Artificial Intelligence, Data Science, Machine Learning, and Deep Learning**
 
 - 📫 How to reach me **barenbarunaharahap@gmail.com**
 
