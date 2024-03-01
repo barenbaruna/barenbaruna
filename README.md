@@ -1,4 +1,4 @@
-<h3 align="center">Tech Enthusiast in Data Science, Mobile Developer, AI, Machine Learning & Back-End</h3>
+<h3 align="center">Tech Enthusiast in AI, Data Science, Mobile Developer, Machine Learning & Back-End</h3>
 
 - 🔭 I’m currently working on **IBM Academy @Infinite Learning**
 
