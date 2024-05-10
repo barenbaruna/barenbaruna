@@ -1,6 +1,6 @@
 <h2 align="center">Tech Enthusiast in AI, Data Science, Mobile Developer, Machine Learning & Back-End</h2>
 
-- 🔭 I’m currently student at **IBM Academy @Infinite Learning**
+- 🔭 I’m currently student at **IBM Academy**
 
 - 🌱 I’m currently learning **Advance AI**
 
