@@ -1,4 +1,4 @@
-<h2 align="center">Tech Enthusiast in AI, Data Science, Mobile Developer, Machine Learning & Back-End</h2>
+<h2 align="center">Tech Enthusiast in AI, Data Science, Machine Learning, & Deep Learning</h2>
 
 - 🔭 I’m currently student at Prima University of Indonesia
 
