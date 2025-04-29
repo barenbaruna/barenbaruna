@@ -39,7 +39,6 @@ I'm an **Informatics Engineering student** at Prima University of Indonesia with
 ## 📈 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=barenbaruna&theme=dark&show_icons=true&count_private=true" alt="GitHub Stats" height="150">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barenbaruna&layout=compact&theme=dark&langs_count=6" alt="Top Languages" height="150">
 </div>
 
